@@ -1,0 +1,11 @@
+name: PayDay
+authors: [ DJREEDOO ]
+version: 1.0
+main: de.djreedoo.payday.main.PayDay
+api-version: 1.16
+description: Plugin für Jemanden
+softdepend: [ Vault ]
+
+commands:
+  pay:
+    aliases: [ pd, payday ]
